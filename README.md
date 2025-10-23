@@ -1,9 +1,10 @@
-[!DOCTYPEr.html](https://github.com/user-attachments/files/23103341/DOCTYPEr.html)
+[!DOCTYPEr.html](https://github.com/user-attachments/files/23103428/DOCTYPEr.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Rose Gold — Página Principal</title>
+  <title>Rose Gold — Página Principal
+Salome Bedoya, Paulina Correa</title>
   <style>
     body {
       background: linear-gradient(135deg, #FFD700, #E6A8D7);
